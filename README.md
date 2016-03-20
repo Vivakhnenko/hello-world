@@ -1,3 +1,4 @@
 # hello-world
 
-I removed Tutorial on repository
+I added some changes here
+and removed Tutorial on repository
